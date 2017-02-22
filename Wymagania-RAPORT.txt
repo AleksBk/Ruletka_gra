@@ -1,0 +1,22 @@
+1. Znajomość istotnych elementów     (cały program)
+— składnia,
+— typy i funkcje wbudowane,
+— zawartość biblioteki standardowej.
+
+2. Programowanie proceduralne
+— różne kategorie parametrów i różne sposoby aplikowania argumentów, 	(przykład przesyłanie krotek w ConnectBd)
+
+3. Programowanie modularne
+— używanie bibliotek zewnętrznych, 					(Pygame, sqlite3)
+
+4. Programowanie obiektowe
+
+— metody zwykłe, statyczne i klas, (poczatek pliku, klasy Player, ConnectBd, Table)
+
+— protokoły (magic methods), w tym: iteracja i properties,      (436)
+
+
+6. Dynamiczna typizacja i semantyka
+
+— badanie typu argumentów vs badanie realizacji protokołu (duck typing),    (27)
+
